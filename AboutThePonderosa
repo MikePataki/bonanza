@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{
+text-align: center;
+}
+body{
+background: tan;
+}
+article{
+background: green;
+width: 80%;
+margin: 5px auto;
+padding: 10px;
+border-radius: 6px;
+box-shadow: 0 0 4px;
+}
+</style>
+</head>
+
+<body>
+<h1>
+About the Ponderosa
+</h1>
+<article>
+The Ponderosa Ranch is the 100,000 acre land owned by Ben Cartwright
+and his three sons, Adam, Hoss(Eric), and Joseph(Little Joe).
+The Ponderosa was approximatly east of Lake Tahoe and West of Washoe Lake,
+Carson City, and Virginia City.
+</article>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Map_of_
+Ponderosa_Ranch.PNG/330px-Map_of_Ponderosa_Ranch.PNG" style="width:250px; height:250px">
+<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNmQrjHpwVtFo84wHh6jSvvvqG1s2vvGOUVhwmqm8CukyPndYV">
+
+</body>

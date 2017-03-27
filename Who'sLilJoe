@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{
+text-align: center;
+}
+body{
+background: tan;
+}
+article{
+background: green;
+width: 80%;
+margin: 5px auto;
+padding: 10px;
+border-radius: 6px;
+box-shadow: 0 0 4px;
+}
+</style>
+</head>
+
+
+<body>
+<h1>
+Who's Lil Joe?
+</h1>
+<article>
+Joseph!!! Well if it isn't the obnoxious, pesky, and cunning
+Little Joe Cartwright.
+<img src="https://s-media-cache-ak0.pinimg.com/564x/15/20/92/152092e4a338df2efd661aaf64d31886.jpg"
+style="width:200px; height: 220px;">
+</article>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header{
+text-align: center;
+}
+body{
+background: tan;
+}
+article{
+background: green;
+width: 80%;
+margin: 5px auto;
+padding: 10px;
+border-radius: 6px;
+box-shadow: 0 0 4px;
+}
+</style>
+
+<body>
+<article>
+<h1>
+Adam
+</h1>
+The eldest, smartest, most logical, and soft tempered one of the
+Cartwrights. Adam has no enemies, besides those who are mistaken,
+and always stands alongside his Pa.
+</article>
+<img src="https://s-media-cache-ak0.pinimg.com/736x/30/46/7e
+/30467ef02e4f5a670d11d223f0ee8e93.jpg" style="width:300px;"
+"height:300px;">
+
+
+</body>

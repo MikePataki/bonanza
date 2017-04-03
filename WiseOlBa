@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header{
+text-align: center;
+}
+body{
+background: tan;
+}
+article{
+background: green;
+width: 80%;
+margin: 5px auto;
+padding: 10px;
+border-radius: 6px;
+box-shadow: 0 0 4px;
+}
+</style>
+
+<article>
+<h1>Ben Cartwright: Man of the Ponderosa</h1>
+Ben Cartwright is the respectable, polite, and formal Man of the Ponderosa.
+He has three young men, each from a different mother, Adam, Eric(Hoss),
+and Joseph.
+
+Adam seems the closest to him, as Joe and Hoss are the mischeivous ones,
+but all his sons are loyal and favor his word.
+
+</article>
+
+<img src="https://s-media-cache-ak0.pinimg.com/736x/40/31/a4/4031a45f23534e
+4e91f0c6a3e208e835.jpg" style="height:250px" align="right">
+
+&copy: April 3, 2017;

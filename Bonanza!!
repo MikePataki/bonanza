@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header{
+text-align: center;
+}
+body{
+background: tan;
+}
+article{
+background: green;
+width: 80%;
+margin: 5px auto;
+padding: 10px;
+border-radius: 6px;
+box-shadow: 0 0 4px;
+}
+</style>
+<link rel="stylesheet" href="AboutThePonderosa">
+</head>
+
+<body>
+
+<div id="header">
+<h1>Dont turn around....</h1>
+<h3>It's Ben, Adam, Hoss, and Joe!!</h3>|
+<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%
+20Mentors/HTML/GitHub/AboutThePonderosa.html">About The Ponderosa</a>|
+
+<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer
+%20Mentors/HTML/GitHub/Who'sLilJoe.html">Who's Lil' Joe?</a>|
+
+<a href="#">Who's Big 'Os</a>|
+
+<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer
+%20Mentors/HTML/GitHub/KnowItAllAdam.html">What about the Know-it-All-Adam..</a>|
+
+<a href="#">Wise Ol' Ba--Ah--I mean Pa!!</a>|
+</div>
+
+<img src="http://media.hamptonroads.com/cache/files/images/blogs/202721.jpg" style="width: 250px; height:270px;">
+<img src="http://www.dvdtalk.com/reviews/images/reviews/190/1362785941_4.jpg" style="width:370px; height:250px;">
+<img src="https://s-media-cache-ak0.pinimg.com/236x/eb/a1/96/eba196d2becc4657445ded086c8f80b3.jpg" style="width:320px; height:250px;">
+<article>
+<h2>Bonanza!!</h2>
+What is Bonanza?? Bonanza was one of the longest running TV westerns in color!!
+It ran for 13 seasons from 1959 to 1973! Bonanza was on the tail of Gunsmoke,
+with 14 years of 14 seasons, while Gunsmoke is filmed for 20 years!!
+</article>
+
+<h4>To Find More about Bonanza go to....</h4>
+<h3>www.bonanza.wikia.com</h3>
+<h4>And Look for User MikePataki!! The owner of this site.</h4>
+&copy;Ms. Tee
+</body>
+</html>

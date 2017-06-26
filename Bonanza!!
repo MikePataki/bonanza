@@ -1,7 +1,31 @@
-<!DOCTYPE html>
+<head>
+<title>Bonanza</title>
+</head>
 <html>
 <head>
 <style>
+<link rel="stylesheet" href="file:///C:/Users/Owner/Dropbox/Home
+school-ijc/2Imani/Computer%20Mentors/HTML/Bonanza/Bonanza.css">
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Caveat');
+
+nav ul li{
+  display: inline;
+  padding: 0 20px 0 0;
+}
+a:link, a:visited, a:active{
+  color: #105106;
+  text-decoration: none;
+  font-family: 'Caveat', cursive;
+  font-size: 17pt;
+}
+a:hover{
+  color: #05504a;
+  font-size: 18pt;
+}
+
 #header{
 text-align: center;
 }
@@ -17,26 +41,25 @@ border-radius: 6px;
 box-shadow: 0 0 4px;
 }
 </style>
-<link rel="stylesheet" href="AboutThePonderosa">
-</head>
 
 <body>
-
 <div id="header">
-<h1>Dont turn around....</h1>
+<h1>Don't turn around....</h1>
 <h3>It's Ben, Adam, Hoss, and Joe!!</h3>|
-<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%
-20Mentors/HTML/GitHub/AboutThePonderosa.html">About The Ponderosa</a>|
+<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%20Mentors/HTML/Bonanza/AboutThePonderosa.html">About The Ponderosa</a>|
 
 <a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer
-%20Mentors/HTML/GitHub/Who'sLilJoe.html">Who's Lil' Joe?</a>|
+%20Mentors/HTML/Bonanza/Who'sLilJoe.html">Who's Lil' Joe?</a>|
 
-<a href="#">Who's Big 'Os</a>|
+<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%20Mentors/HTML/Bonanza/WhosBigOs'.html">Who's Big 'Os</a>|
 
 <a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer
-%20Mentors/HTML/GitHub/KnowItAllAdam.html">What about the Know-it-All-Adam..</a>|
+%20Mentors/HTML/Bonanza/KnowItAllAdam.html">What about the Know-it-All-Adam..</a>|
 
-<a href="#">Wise Ol' Ba--Ah--I mean Pa!!</a>|
+<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%20Mentors/HTML/Bonanza/WiseOlBa.html">Wise Ol' Ba--Ah--I mean Pa!!</a>|
+
+<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%20Mentors/HTML/Bonanza/It'sJamie.html">It's a Clown, It's a Ape, It's Jamie!!</a>
+
 </div>
 
 <img src="http://media.hamptonroads.com/cache/files/images/blogs/202721.jpg" style="width: 250px; height:270px;">
@@ -44,14 +67,14 @@ box-shadow: 0 0 4px;
 <img src="https://s-media-cache-ak0.pinimg.com/236x/eb/a1/96/eba196d2becc4657445ded086c8f80b3.jpg" style="width:320px; height:250px;">
 <article>
 <h2>Bonanza!!</h2>
-What is Bonanza?? Bonanza was one of the longest running TV westerns in color!!
-It ran for 13 seasons from 1959 to 1973! Bonanza was on the tail of Gunsmoke,
-with 14 years of 14 seasons, while Gunsmoke is filmed for 20 years!!
+What is Bonanza?? Bonanza was the second longest running TV westerns in color!!
+It ran for 14 seasons from 1959 to 1973! Bonanza was on the tail of Gunsmoke,
+with 14 years of 14 seasons, while Gunsmoke is filmed for over 20 years!!
 </article>
 
-<h4>To Find More about Bonanza go to....</h4>
-<h3>www.bonanza.wikia.com</h3>
-<h4>And Look for User MikePataki!! The owner of this site.</h4>
-&copy;Ms. Tee
+<h3>To Find More about Bonanza go to....</h3>
+<a href="http://www.bonanza.wikia.com">Bonanza Wikia</a>
+
+<h4>&copy;Ms. Tee</h4>
 </body>
 </html>

@@ -1,0 +1,47 @@
+<html>
+<head>
+<style>
+#header{
+text-align: center;
+}
+body{
+background: tan;
+}
+article{
+background: green;
+width: 80%;
+margin: 5px auto;
+padding: 10px;
+border-radius: 6px;
+box-shadow: 0 0 4px;
+}
+</style>
+
+<body>
+<article>
+Jamie Cartwright, the 14 year old adopted son of the Cartwrights.Appeared in season
+11 and left with the show in season 14.
+
+<img src="http://i1197.photobucket.com/albums/aa428/Gillie52/Mitch%20Vogel%20Bio%20Jan%202012/2540.jpg"
+align="right" style="width:160px; height:200px">
+</article>
+
+
+<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%20Mentors/HTML/Bonanza/AboutThePonderosa.html">About The Ponerosa</a>|
+
+<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%20Mentors/HTML/Bonanza/Bonanza.html">Home</a>|
+
+<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer
+%20Mentors/HTML/Bonanza/Who'sLilJoe.html">Who's Lil' Joe?</a>|
+
+<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%20Mentors/HTML/Bonanza/WhosBigOs'.html">Who's Big 'Os</a>|
+
+<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer
+%20Mentors/HTML/Bonanza/KnowItAllAdam.html">What about the Know-it-All-Adam..</a>|
+
+<a href="file:///C:/Users/Owner/Dropbox/Homeschool-ijc/2Imani/Computer%20Mentors/HTML/Bonanza/WiseOlBa.html">Wise Ol' Ba--Ah--I mean Pa!!</a>
+
+<strong>It's a Clown, It's a Ape, It's Jamie!!</strong>
+
+
+</body>
